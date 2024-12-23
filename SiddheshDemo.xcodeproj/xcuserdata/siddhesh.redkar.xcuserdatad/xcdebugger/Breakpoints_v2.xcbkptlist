@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4682B0E2-02A8-434B-9988-34D00C2A0632"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3052E56B-493A-41AC-B610-ECA5B530DAB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiddheshDemo/Service/HoldingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "readLocalJSONFile(forName:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3052E56B-493A-41AC-B610-ECA5B530DAB4 - 76483be7f9c76749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiddheshDemo.HoldingService.readLocalJSONFile(forName: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/Service/HoldingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "379">
+               </Location>
+               <Location
+                  uuid = "3052E56B-493A-41AC-B610-ECA5B530DAB4 - 76483be7f9c76749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiddheshDemo.HoldingService.readLocalJSONFile(forName: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/Service/HoldingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "867">
+               </Location>
+               <Location
+                  uuid = "3052E56B-493A-41AC-B610-ECA5B530DAB4 - 76483be7f9c76749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiddheshDemo.HoldingService.readLocalJSONFile(forName: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/Service/HoldingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "390">
+               </Location>
+               <Location
+                  uuid = "3052E56B-493A-41AC-B610-ECA5B530DAB4 - 76483be7f9c76749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiddheshDemo.HoldingService.readLocalJSONFile(forName: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/Service/HoldingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "878">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FA9A35D-BC7E-413C-9EB3-CF5186247A7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiddheshDemo/ViewController/HoldingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5FA9A35D-BC7E-413C-9EB3-CF5186247A7F - c4e7bc3f1bfc9812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SiddheshDemo.HoldingViewController.fetchData() -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/ViewController/HoldingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "5FA9A35D-BC7E-413C-9EB3-CF5186247A7F - c4e7bc3f1bfc9812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SiddheshDemo.HoldingViewController.fetchData() -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/ViewController/HoldingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "269">
+               </Location>
+               <Location
+                  uuid = "5FA9A35D-BC7E-413C-9EB3-CF5186247A7F - c4e7bc3f1bfc9812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SiddheshDemo.HoldingViewController.fetchData() -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/ViewController/HoldingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "5FA9A35D-BC7E-413C-9EB3-CF5186247A7F - c4e7bc3f1bfc9812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;SiddheshDemo.UserHolding&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SiddheshDemo.HoldingViewController.fetchData() -&gt; ()"
+                  moduleName = "SiddheshDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddhesh.redkar/Desktop/SiddheshDemo/SiddheshDemo/ViewController/HoldingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
